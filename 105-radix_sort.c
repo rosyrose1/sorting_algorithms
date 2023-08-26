@@ -45,7 +45,7 @@ int mradix_pass(int *array, ssize_t size, int digit, int *new_array)
  * @size: the size of the array
  * @array: the integer array to sort
  *
- * Return: the gap size
+ * Return: Nothing
  */
 void radix_sort(int *array, size_t size)
 {
