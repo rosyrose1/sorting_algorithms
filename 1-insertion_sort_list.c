@@ -4,6 +4,7 @@
  * @head: list head
  * @a: the node
  * @b: the node
+ * Return: Nothing
  */
 void swap(listint_t *a, listint_t *b, listint_t **head)
 {
@@ -29,6 +30,7 @@ void swap(listint_t *a, listint_t *b, listint_t **head)
  * insertion_sort_list  - inserting a list
  * @list: doubly liked list
  *rosy and mimi's
+ *Return: Nothing
  */
 void insertion_sort_list(listint_t **list)
 {
