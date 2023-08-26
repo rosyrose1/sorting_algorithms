@@ -5,7 +5,7 @@
  * @array: The Array to be Scout
  * @index: Starting Index of The Scout
  * @size: The Array Size
- * Return: (int) index of min if found or
+ * Return: (int) index of min if found
  * same given index if index is the min
  */
 
@@ -34,7 +34,7 @@ int locate_min(int *array, int index, size_t size)
  * @array: Array to sort type int *
  * @size: Size of The Given Array
  *
- * Return: (Void) Sorted Array
+ * Return: Nothing
  */
 void selection_sort(int *array, size_t size)
 {
