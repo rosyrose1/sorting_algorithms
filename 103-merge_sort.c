@@ -12,6 +12,7 @@ void merge_sort(int *array, size_t size);
  * @front: front index of the array.
  * @mid: middle index of the array.
  * @back: back index of the array.
+ * Return: Nothing.
  */
 void rosy_merge_subarry(int *subarry, int *buff, size_t front, size_t mid,
 		size_t back)
@@ -64,6 +65,7 @@ void merge_sort_recursion(int *subarry, int *buff, size_t front, size_t back)
  * @size: size of the array.
  *
  * Description: Apply the top-down merge sort algorithm.
+ * Return: Nothing
  */
 void merge_sort(int *array, size_t size)
 {
