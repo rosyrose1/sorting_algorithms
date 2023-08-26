@@ -5,7 +5,7 @@
  * @c: an integer
  * @d: an integer
  *mimi and rosy's
- * Return: (void) Swaped int
+ * Return: Nothing returns to void
  */
 void sswap(int *c, int *d)
 {
