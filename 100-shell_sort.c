@@ -4,7 +4,7 @@
  * shell_sort - Utilizing the Knuth sequence for the shell sort algorithm.
  * @array: an Array to be Sorted
  * @size: the size of the array
- * Return: Sorted Array (void)
+ * Return: Sorted Arrays
  */
 void shell_sort(int *array, size_t size)
 {
