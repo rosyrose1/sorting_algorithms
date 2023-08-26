@@ -67,6 +67,7 @@ static void rheapy(int *array, size_t size)
  * heap_sort - sort an array in ascending order
  * @array: pointer to the array
  * @size: size of the array
+ * Return: Nothing
  */
 void heap_sort(int *array, size_t size)
 {
