@@ -26,6 +26,7 @@ int rm_get_max(int *array, int size)
  * @array: array of integers.
  * @size: size of the array.
  *Description: Displays the counting array once it has been configured.
+ *Return: Nothing
  */
 void counting_sort(int *array, size_t size)
 {
